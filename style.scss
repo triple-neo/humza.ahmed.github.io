@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkGray;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -26,7 +26,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 4 10px;
   width: 100%;
 }
 
